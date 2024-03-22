@@ -12,14 +12,14 @@ header {
 }
 
 .holder {
-  background: url(assets/bg3.jpg) no-repeat center center;
-  background-size: cover;
+  background: url(assets/20211001_120840.jpg) no-repeat center center;
+  background-size: fill;
 }
 
 .header-image {
   width: 100%;
   height: 100vh;
-  background: url(assets/header-image.jpg) no-repeat center center;
+  background: url(assets/bg3.jpg) no-repeat center center;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -43,6 +43,7 @@ header {
   font-size: 20px;
   max-width: 800px;
   margin: 0 auto;
+  color: azure;
 }
 
 
